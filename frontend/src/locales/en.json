@@ -1,0 +1,44 @@
+{
+  "appName": "Claim Reimbursement App",
+  "appSubtitle": "Submit and manage your claims easily.",
+  "switchRole": "Switch Role",
+  "myAccount": "My Account",
+  "email": "Email",
+  "entity": "Entity",
+  "department": "Department",
+  "logout": "Logout",
+  "languages": {
+    "en": "English",
+    "hi": "Hindi",
+    "es": "Spanish",
+    "fr": "French"
+  },
+  "roles": {
+    "user": "User",
+    "supervisor": "Supervisor",
+    "financeApprover": "Finance Approver",
+    "superAdmin": "Super Admin"
+  },
+  "nav": {
+    "myClaims": "My Claims",
+    "pendingApprovals": "Pending Approvals",
+    "administration": "Administration"
+  },
+  "actions": {
+  "new": "New",
+  "createClaim": "Create New Claim",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "submit": "Submit",
+    "approve": "Approve",
+    "reject": "Reject",
+    "search": "Search",
+    "filter": "Filter",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next"
+  }
+}

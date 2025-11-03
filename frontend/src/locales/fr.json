@@ -1,0 +1,44 @@
+{
+  "appName": "Application de remboursement de réclamation",
+  "appSubtitle": "Soumettez et gérez vos réclamations facilement.",
+  "switchRole": "Changer de rôle",
+  "myAccount": "Mon compte",
+  "email": "E-mail",
+  "entity": "Entité",
+  "department": "Département",
+  "logout": "Déconnexion",
+  "languages": {
+    "en": "Anglais",
+    "hi": "Hindi",
+    "es": "Espagnol",
+    "fr": "Français"
+  },
+  "roles": {
+    "user": "Utilisateur",
+    "supervisor": "Superviseur",
+    "financeApprover": "Approbateur financier",
+    "superAdmin": "Super administrateur"
+  },
+  "nav": {
+    "myClaims": "Mes réclamations",
+    "pendingApprovals": "Approbations en attente",
+    "administration": "Administration"
+  },
+  "actions": {
+  "new": "Nouveau",
+  "createClaim": "Créer une nouvelle réclamation",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "view": "Voir",
+    "submit": "Soumettre",
+    "approve": "Approuver",
+    "reject": "Rejeter",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "close": "Fermer",
+    "back": "Retour",
+    "next": "Suivant"
+  }
+}

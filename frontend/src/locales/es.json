@@ -1,0 +1,44 @@
+{
+  "appName": "Aplicación de reembolso de reclamaciones",
+  "appSubtitle": "Envíe y gestione sus reclamaciones fácilmente.",
+  "switchRole": "Cambiar rol",
+  "myAccount": "Mi cuenta",
+  "email": "Correo electrónico",
+  "entity": "Entidad",
+  "department": "Departamento",
+  "logout": "Cerrar sesión",
+  "languages": {
+    "en": "Inglés",
+    "hi": "Hindi",
+    "es": "Español",
+    "fr": "Francés"
+  },
+  "roles": {
+    "user": "Usuario",
+    "supervisor": "Supervisor",
+    "financeApprover": "Aprobador financiero",
+    "superAdmin": "Super administrador"
+  },
+  "nav": {
+    "myClaims": "Mis reclamaciones",
+    "pendingApprovals": "Aprobaciones pendientes",
+    "administration": "Administración"
+  },
+  "actions": {
+  "new": "Nuevo",
+  "createClaim": "Crear nueva reclamación",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "view": "Ver",
+    "submit": "Enviar",
+    "approve": "Aprobar",
+    "reject": "Rechazar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "close": "Cerrar",
+    "back": "Atrás",
+    "next": "Siguiente"
+  }
+}

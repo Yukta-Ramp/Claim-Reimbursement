@@ -1,0 +1,44 @@
+{
+  "appName": "क्लेम रिइम्बर्समेंट ऐप",
+  "appSubtitle": "अपने क्लेम आसानी से सबमिट और प्रबंधित करें।",
+  "switchRole": "भूमिका बदलें",
+  "myAccount": "मेरा खाता",
+  "email": "ईमेल",
+  "entity": "इकाई",
+  "department": "विभाग",
+  "logout": "लॉगआउट",
+  "languages": {
+    "en": "अंग्रेज़ी",
+    "hi": "हिन्दी",
+    "es": "स्पेनिश",
+    "fr": "फ्रेंच"
+  },
+  "roles": {
+    "user": "यूज़र",
+    "supervisor": "पर्यवेक्षक",
+    "financeApprover": "वित्त अनुमोदक",
+    "superAdmin": "सुपर एडमिन"
+  },
+  "nav": {
+    "myClaims": "मेरे क्लेम्स",
+    "pendingApprovals": "लंबित अनुमोदन",
+    "administration": "प्रशासन"
+  },
+  "actions": {
+  "new": "नया",
+  "createClaim": "नया क्लेम बनाएं",
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "view": "देखें",
+    "submit": "सबमिट करें",
+    "approve": "अनुमोदित करें",
+    "reject": "अस्वीकार करें",
+    "search": "खोजें",
+    "filter": "फ़िल्टर",
+    "close": "बंद करें",
+    "back": "पीछे",
+    "next": "आगे"
+  }
+}
